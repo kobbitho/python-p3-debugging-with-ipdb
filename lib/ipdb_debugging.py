@@ -2,6 +2,13 @@
 
 import ipdb
 
+num = 3
 def plus_two(num):
-    num + 2
-    return num
+    return num + 2
+ans = num + 2
+print(ans)
+
+
+
+
+
